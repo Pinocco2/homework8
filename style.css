@@ -1,0 +1,35 @@
+.Box {
+    width: 500px;
+    height: 700px;
+    border: 1px;
+    box-shadow: rgb(48, 7, 48);
+    margin-left: 35%;
+    margin-top: 100px;
+}
+.img {
+    width: 400px;
+}
+button {
+    width: 60px;
+    height: 70px;
+    position: absolute;
+    display: flex;
+}
+.button1 {
+    margin-left: 100px;
+    margin-top: -160px;
+    padding-top: 15px;
+    background-color: rgba(250, 235, 215, 0.425);
+}
+.button2 {
+    margin-left: 170px;
+    margin-top: -160px;
+    padding-top: 8px;
+    background-color: rgba(250, 235, 215, 0.425);
+}
+.button3 {
+    margin-left: 240px;
+    margin-top: -160px;
+    padding-top: 3px;
+    background-color: rgba(250, 235, 215, 0.425);
+}
